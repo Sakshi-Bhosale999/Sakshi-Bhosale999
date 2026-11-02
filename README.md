@@ -8,7 +8,7 @@
 
 ---
 
-### `01 WHO AM I?`
+### `1 WHO AM I?`
 
 Hey there! I'm **Sakshi**, an IT student passionate about technology, development and solving real-world problems.
 
@@ -18,7 +18,7 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 - 🧠 Constantly improving my problem-solving skills
 - 🚀 Believer in learning by building
 
-### `02 TECH ARSENAL`
+### `2 TECH ARSENAL`
 
 **Languages**
 
@@ -33,14 +33,9 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 ![VS Code](https://img.shields.io/badge/VS_Code-0B1630?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B1630?style=for-the-badge&logo=springboot&logoColor=8AFF80)
 
-### `03 FEATURED PROJECTS`
-
-🚧 More projects coming soon...
-
-Add your best repositories here with a short description and links.
 
 
-### `04 GITHUB STATISTICS`
+### `3 GITHUB STATISTICS`
 
 <p align="center">
   <img
@@ -51,7 +46,7 @@ Add your best repositories here with a short description and links.
 </p>
 
 
-### `05 CONNECT WITH ME`
+### `4 CONNECT WITH ME`
 
 <p align="center">
   <a href="https://github.com/Sakshi-Bhosale999">
