@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Java-7B2FF7?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-8A2BE2?style=for-the-badge&logo=shield&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-BA55D3?style=for-the-badge&logo=brain&logoColor=white"/>
+ <img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/> 
 
 </div>
 
@@ -37,14 +37,25 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 </td>
 <td width="45%" valign="top">
 
-## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-Bhosale999&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=080B25&title_color=00D9FF&icon_color=BB86FC&text_color=FFFFFF" width="100%"/>
+## 📊 GitHub Statistics
 
-</td>
-</tr>
-<tr>
-<td width="55%" valign="top">
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sakshi-Bhosale999&show_icons=true&hide_border=true&bg_color=080B25&title_color=00D9FF&icon_color=BB86FC&text_color=FFFFFF&rank_icon=github"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Bhosale999&layout=compact&hide_border=true&bg_color=080B25&title_color=00D9FF&text_color=FFFFFF"
+    height="180"
+    alt="Top Languages"
+  />
+
+</div>
+
 
 ## 🚀 Featured Projects
 
@@ -71,11 +82,15 @@ AI Network Attack Forecasting
 </tr>
 </table>
 
-## 🔥 Contribution Streak
+
+## 🔥 Contribution Activity
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Sakshi-Bhosale999&theme=midnight-purple&hide_border=true&background=080B25&ring=9B5CFF&fire=00D9FF&currStreakLabel=00D9FF" width="90%"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-Bhosale999&bg_color=080B25&color=00D9FF&line=9B5CFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+
 </div>
+
 
 ## 🌐 Connect With Me
 
