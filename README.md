@@ -39,19 +39,17 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 
 Add your best repositories here with a short description and links.
 
-### `04 GITHUB ACTIVITY`
+
+### `04 GITHUB STATISTICS`
 
 <p align="center">
-  <a href="https://github.com/Sakshi-Bhosale999">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-Bhosale999&bg_color=0B1020&color=C9D1D9&line=00D9FF&point=BD93F9&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
-  </a>
+  <img
+    src="./assets/github-stats.svg"
+    width="90%"
+    alt="GitHub Statistics"
+  />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Sakshi-Bhosale999?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My-Repositories-0B1630?style=for-the-badge&logo=github&logoColor=00D9FF" alt="View repositories"/>
-  </a>
-</p>
 
 ### `05 CONNECT WITH ME`
 
