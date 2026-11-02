@@ -35,18 +35,9 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 
 
 
-### `3 GITHUB STATISTICS`
-
-<p align="center">
-  <img
-    src="./assets/github-stats.svg"
-    width="90%"
-    alt="GitHub Statistics"
-  />
-</p>
 
 
-### `4 CONNECT WITH ME`
+### `3 CONNECT WITH ME`
 
 <p align="center">
   <a href="https://github.com/Sakshi-Bhosale999">
