@@ -8,7 +8,7 @@
 
 ---
 
-### `01 // WHO AM I?`
+### `01 WHO AM I?`
 
 Hey there! I'm **Sakshi**, an IT student passionate about technology, development and solving real-world problems.
 
@@ -18,7 +18,7 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 - 🧠 Constantly improving my problem-solving skills
 - 🚀 Believer in learning by building
 
-### `02 // TECH ARSENAL`
+### `02 TECH ARSENAL`
 
 **Languages**
 
@@ -33,24 +33,27 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 ![VS Code](https://img.shields.io/badge/VS_Code-0B1630?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B1630?style=for-the-badge&logo=springboot&logoColor=8AFF80)
 
-### `03 // FEATURED PROJECTS`
+### `03 FEATURED PROJECTS`
 
 🚧 More projects coming soon...
 
 Add your best repositories here with a short description and links.
 
-### `04 // GITHUB STATISTICS`
+### `04 GITHUB ACTIVITY`
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Bhosale999&show_icons=true&theme=tokyonight&bg_color=0B1020&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Bhosale999&layout=compact&theme=tokyonight&bg_color=0B1020&title_color=00D9FF&text_color=C9D1D9&hide_border=true" />
+  <a href="https://github.com/Sakshi-Bhosale999">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-Bhosale999&bg_color=0B1020&color=C9D1D9&line=00D9FF&point=BD93F9&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-Bhosale999&theme=tokyonight&background=0B1020&ring=00D9FF&fire=BD93F9&currStreakLabel=00D9FF&hide_border=true" />
+  <a href="https://github.com/Sakshi-Bhosale999?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My-Repositories-0B1630?style=for-the-badge&logo=github&logoColor=00D9FF" alt="View repositories"/>
+  </a>
 </p>
 
-### `05 // CONNECT WITH ME`
+### `05 CONNECT WITH ME`
 
 <p align="center">
   <a href="https://github.com/Sakshi-Bhosale999">
