@@ -1,113 +1,70 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:080E24,50:102A56,100:5B2D91&height=200&section=header&text=SAKSHI%20BHOSALE&fontSize=42&fontColor=00D9FF&fontAlignY=38&desc=Building%20the%20future%20one%20commit%20at%20a%20time&descAlignY=58&descSize=13)
 
-<div align="center">
+<h3 align="center">⚡ DEVELOPER • TECH ENTHUSIAST • PROBLEM SOLVER ⚡</h3>
 
-  <img src="./assets/assetsmidnight-glass-banner.png" width="100%" alt="Midnight Glass Banner" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Initializing+developer+mode...;Exploring+AI+%26+Cybersecurity;Turning+ideas+into+reality;Always+learning.+Always+building." />
+</p>
 
-  <br/>
+---
 
-  <h1>✦ SAKSHI BHOSALE ✦</h1>
-
-  <h3>IT Student&nbsp; | &nbsp;Developer&nbsp; | &nbsp;Tech Enthusiast</h3>
-
-  <p><i>Building ideas into reality. ✨</i></p>
-
-  <img src="https://img.shields.io/badge/C++-0A84FF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-7B2FF7?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-00BFFF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-8A2BE2?style=for-the-badge&logo=shield&logoColor=white"/>
- <img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/> 
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-## 💠 About Me
+### `01 // WHO AM I?`
 
 Hey there! I'm **Sakshi**, an IT student passionate about technology, development and solving real-world problems.
 
-- ✦ Exploring software development and emerging technologies
-- ✦ Interested in cybersecurity and AI
-- ✦ Constantly learning and improving my skills
-- ✦ Turning creative ideas into practical projects
+- 🔭 Exploring software development and emerging technologies
+- 💻 Learning and building with different programming languages
+- 🛡️ Interested in cybersecurity and AI
+- 🧠 Constantly improving my problem-solving skills
+- 🚀 Believer in learning by building
 
-</td>
-<td width="45%" valign="top">
+### `02 // TECH ARSENAL`
 
+**Languages**
 
-## 📊 GitHub Statistics
+![C++](https://img.shields.io/badge/C++-0B1630?style=for-the-badge&logo=cplusplus&logoColor=00D9FF)
+![Java](https://img.shields.io/badge/Java-0B1630?style=for-the-badge&logo=openjdk&logoColor=00D9FF)
+![Python](https://img.shields.io/badge/Python-0B1630?style=for-the-badge&logo=python&logoColor=00D9FF)
 
-<div align="center">
+**Tools & Technologies**
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sakshi-Bhosale999&show_icons=true&hide_border=true&bg_color=080B25&title_color=00D9FF&icon_color=BB86FC&text_color=FFFFFF&rank_icon=github"
-    height="180"
-    alt="GitHub Stats"
-  />
+![Git](https://img.shields.io/badge/Git-0B1630?style=for-the-badge&logo=git&logoColor=FF4B91)
+![GitHub](https://img.shields.io/badge/GitHub-0B1630?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-0B1630?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B1630?style=for-the-badge&logo=springboot&logoColor=8AFF80)
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Bhosale999&layout=compact&hide_border=true&bg_color=080B25&title_color=00D9FF&text_color=FFFFFF"
-    height="180"
-    alt="Top Languages"
-  />
+### `03 // FEATURED PROJECTS`
 
-</div>
+🚧 More projects coming soon...
 
+Add your best repositories here with a short description and links.
 
-## 🚀 Featured Projects
-
-### 🔹 RecoverX
-C++ DSA Project
-
-[View Repository](https://github.com/Sakshi-Bhosale999)
-
-### 🔹 Nexus
-AI Network Attack Forecasting
-
-[View Repository](https://github.com/Sakshi-Bhosale999)
-
-</td>
-<td width="45%" valign="top">
-
-## 🛠️ Tech Stack
+### `04 // GITHUB STATISTICS`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,spring,git,github,vscode&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Bhosale999&show_icons=true&theme=tokyonight&bg_color=0B1020&title_color=00D9FF&icon_color=BD93F9&text_color=C9D1D9&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Bhosale999&layout=compact&theme=tokyonight&bg_color=0B1020&title_color=00D9FF&text_color=C9D1D9&hide_border=true" />
 </p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-Bhosale999&theme=tokyonight&background=0B1020&ring=00D9FF&fire=BD93F9&currStreakLabel=00D9FF&hide_border=true" />
+</p>
 
+### `05 // CONNECT WITH ME`
 
-## 🔥 Contribution Activity
+<p align="center">
+  <a href="https://github.com/Sakshi-Bhosale999">
+    <img src="https://img.shields.io/badge/GitHub-0B1630?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+  </a>
+  <!-- Add your LinkedIn and other social links here -->
+</p>
 
-<div align="center">
+---
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-Bhosale999&bg_color=080B25&color=00D9FF&line=9B5CFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+<p align="center">
+  <i>"The future belongs to those who build it."</i>
+  <br/>
+  <b>⚡ SYSTEM STATUS: ALWAYS LEARNING ⚡</b>
+</p>
 
-</div>
-
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Sakshi-Bhosale999">
-<img src="https://img.shields.io/badge/GitHub-0B102B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <h3>✦ The future belongs to those who build it. ✦</h3>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B25,50:321078,100:00BFFF&height=4&section=footer" width="100%"/>
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5B2D91,50:102A56,100:080E24&height=100&section=footer)
