@@ -74,9 +74,6 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
   <a href="https://linkedin.com/in/sakshi-bhosale-297803384">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:09bhosalesakshi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4B91?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
