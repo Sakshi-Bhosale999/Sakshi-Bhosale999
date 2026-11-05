@@ -1,13 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:080E24,50:102A56,100:5B2D91&height=200&section=header&text=SAKSHI%20BHOSALE&fontSize=42&fontColor=00D9FF&fontAlignY=38&desc=Building%20the%20future%20one%20commit%20at%20a%20time&descAlignY=58&descSize=13)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF4B91,50:5B2D91,100:00D9FF&height=200&section=header&text=SAKSHI%20BHOSALE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Building%20the%20future%20one%20commit%20at%20a%20time&descAlignY=58&descSize=13)
 
 <h3 align="center">⚡ DEVELOPER • TECH ENTHUSIAST • PROBLEM SOLVER ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Initializing+developer+mode...;Exploring+AI+%26+Cybersecurity;Turning+ideas+into+reality;Always+learning.+Always+building." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=FF4B91&center=true&vCenter=true&width=600&lines=Initializing+developer+mode...;Exploring+AI+%26+Cybersecurity;Turning+ideas+into+reality;Always+learning.+Always+building." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakshi-Bhosale999&color=5B2D91&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Sakshi-Bhosale999&color=FF4B91&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -34,35 +34,42 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-0B1630?style=for-the-badge&logo=cplusplus&logoColor=00D9FF)
-![Java](https://img.shields.io/badge/Java-0B1630?style=for-the-badge&logo=openjdk&logoColor=00D9FF)
-![Python](https://img.shields.io/badge/Python-0B1630?style=for-the-badge&logo=python&logoColor=00D9FF)
-![SQL](https://img.shields.io/badge/SQL-0B1630?style=for-the-badge&logo=mysql&logoColor=00D9FF)
-![HTML5](https://img.shields.io/badge/HTML5-0B1630?style=for-the-badge&logo=html5&logoColor=FF4B91)
-![CSS3](https://img.shields.io/badge/CSS3-0B1630?style=for-the-badge&logo=css3&logoColor=00D9FF)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Tools & Technologies**
 
-![Git](https://img.shields.io/badge/Git-0B1630?style=for-the-badge&logo=git&logoColor=FF4B91)
-![GitHub](https://img.shields.io/badge/GitHub-0B1630?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-0B1630?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B1630?style=for-the-badge&logo=springboot&logoColor=8AFF80)
-![MySQL](https://img.shields.io/badge/MySQL-0B1630?style=for-the-badge&logo=mysql&logoColor=00D9FF)
-![Linux](https://img.shields.io/badge/Linux-0B1630?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### `4 FEATURED PROJECTS`
 
-<!-- Replace REPO-1, REPO-2, REPO-3 with your real repository names -->
+<!-- Replace YOUR-REPO-1 / YOUR-REPO-2 with your real public repo names (case-sensitive) -->
 
 <p align="center">
-  <a href="https://github.com/Sakshi-Bhosale999/REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakshi-Bhosale999&repo=REPO-1&bg_color=0B1630&title_color=00D9FF&text_color=FFFFFF&icon_color=5B2D91&border_color=102A56" />
+  <a href="https://github.com/Sakshi-Bhosale999/YOUR-REPO-1">
+    <img src="https://img.shields.io/badge/YOUR--REPO--1-Java%20%7C%20Spring%20Boot-5B2D91?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Sakshi-Bhosale999/REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakshi-Bhosale999&repo=REPO-2&bg_color=0B1630&title_color=00D9FF&text_color=FFFFFF&icon_color=5B2D91&border_color=102A56" />
+  <img src="https://img.shields.io/github/stars/Sakshi-Bhosale999/YOUR-REPO-1?style=for-the-badge&labelColor=0B1630&color=FF4B91" />
+  <img src="https://img.shields.io/github/last-commit/Sakshi-Bhosale999/YOUR-REPO-1?style=for-the-badge&labelColor=0B1630&color=00D9FF" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sakshi-Bhosale999/YOUR-REPO-2">
+    <img src="https://img.shields.io/badge/YOUR--REPO--2-Python-FF4B91?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/github/stars/Sakshi-Bhosale999/YOUR-REPO-2?style=for-the-badge&labelColor=0B1630&color=FF4B91" />
+  <img src="https://img.shields.io/github/last-commit/Sakshi-Bhosale999/YOUR-REPO-2?style=for-the-badge&labelColor=0B1630&color=00D9FF" />
 </p>
 
 ---
@@ -70,12 +77,12 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 ### `5 GITHUB STATS`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Bhosale999&show_icons=true&hide_border=true&bg_color=0B1630&title_color=00D9FF&icon_color=5B2D91&text_color=FFFFFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Bhosale999&layout=compact&hide_border=true&bg_color=0B1630&title_color=00D9FF&text_color=FFFFFF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Bhosale999&show_icons=true&bg_color=30,0B1630,5B2D91&title_color=FF4B91&icon_color=00D9FF&text_color=E0E6FF&border_color=5B2D91" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Bhosale999&layout=compact&bg_color=30,0B1630,5B2D91&title_color=FF4B91&text_color=E0E6FF&border_color=5B2D91" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sakshi-Bhosale999&background=0B1630&ring=00D9FF&fire=5B2D91&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B9BB4&border=00000000" />
+  <img src="https://streak-stats.demolab.com?user=Sakshi-Bhosale999&background=0B1630&ring=FF4B91&fire=FFB800&currStreakLabel=00D9FF&currStreakNum=FFFFFF&sideLabels=7CFFCB&sideNums=FFFFFF&dates=B8C4E0&border=5B2D91" />
 </p>
 
 ### `6 CONTRIBUTION SNAKE`
@@ -90,13 +97,13 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 
 <p align="center">
   <a href="https://github.com/Sakshi-Bhosale999">
-    <img src="https://img.shields.io/badge/GitHub-0B1630?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/YOUR-ID">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1630?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-0B1630?style=for-the-badge&logo=gmail&logoColor=FF4B91"/>
+    <img src="https://img.shields.io/badge/Email-FF4B91?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -108,4 +115,4 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
   <b>⚡ SYSTEM STATUS: ALWAYS LEARNING ⚡</b>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5B2D91,50:102A56,100:080E24&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:5B2D91,100:FF4B91&height=100&section=footer)
