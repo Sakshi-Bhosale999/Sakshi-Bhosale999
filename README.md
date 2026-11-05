@@ -49,25 +49,10 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-### `4 FEATURED PROJECTS`
-
-<!-- Replace YOUR-REPO-1 / YOUR-REPO-2 with your real public repo names (case-sensitive) -->
-
-<p align="center">
-  <a href="https://github.com/Sakshi-Bhosale999/Insurance-Policy-Management-System.git">
-    <img src="https://img.shields.io/badge/https://github.com/Sakshi-Bhosale999/Insurance-Policy-Management-System.git-Java%20%7C%20Spring%20Boot-5B2D91?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/github/stars/Sakshi-Bhosale999/YOUR-REPO-1?style=for-the-badge&labelColor=0B1630&color=FF4B91" />
-  <img src="https://img.shields.io/github/last-commit/Sakshi-Bhosale999/YOUR-REPO-1?style=for-the-badge&labelColor=0B1630&color=00D9FF" />
-</p>
-
-
 
 ---
 
-### `5 GITHUB STATS`
+### `4 GITHUB STATS`
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Bhosale999&show_icons=true&bg_color=30,0B1630,5B2D91&title_color=FF4B91&icon_color=00D9FF&text_color=E0E6FF&border_color=5B2D91" />
@@ -78,7 +63,7 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
   <img src="https://streak-stats.demolab.com?user=Sakshi-Bhosale999&background=0B1630&ring=FF4B91&fire=FFB800&currStreakLabel=00D9FF&currStreakNum=FFFFFF&sideLabels=7CFFCB&sideNums=FFFFFF&dates=B8C4E0&border=5B2D91" />
 </p>
 
-### `6 CONTRIBUTION SNAKE`
+### `5 CONTRIBUTION SNAKE`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sakshi-Bhosale999/Sakshi-Bhosale999/output/github-snake-dark.svg" alt="Snake animation" />
@@ -86,7 +71,7 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 
 ---
 
-### `7 CONNECT WITH ME`
+### `6 CONNECT WITH ME`
 
 <p align="center">
   <a href="https://github.com/Sakshi-Bhosale999">
