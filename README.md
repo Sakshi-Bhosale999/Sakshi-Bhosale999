@@ -59,9 +59,6 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Bhosale999&layout=compact&bg_color=30,0B1630,5B2D91&title_color=FF4B91&text_color=E0E6FF&border_color=5B2D91" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sakshi-Bhosale999&background=0B1630&ring=FF4B91&fire=FFB800&currStreakLabel=00D9FF&currStreakNum=FFFFFF&sideLabels=7CFFCB&sideNums=FFFFFF&dates=B8C4E0&border=5B2D91" />
-</p>
 
 ### `5 CONTRIBUTION SNAKE`
 
