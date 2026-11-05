@@ -24,7 +24,6 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 
 ### `2 CURRENTLY`
 
-> 🔨 **Building:** *[your current project name]*
 > 📚 **Learning:** Spring Boot, DSA, Network Security
 > 🎯 **Goal:** Internship in software development
 
@@ -57,20 +56,14 @@ Hey there! I'm **Sakshi**, an IT student passionate about technology, developmen
 <!-- Replace YOUR-REPO-1 / YOUR-REPO-2 with your real public repo names (case-sensitive) -->
 
 <p align="center">
-  <a href="https://github.com/Sakshi-Bhosale999/YOUR-REPO-1">
-    <img src="https://img.shields.io/badge/YOUR--REPO--1-Java%20%7C%20Spring%20Boot-5B2D91?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Sakshi-Bhosale999/Insurance-Policy-Management-System.git">
+    <img src="https://img.shields.io/badge/https://github.com/Sakshi-Bhosale999/Insurance-Policy-Management-System.git-Java%20%7C%20Spring%20Boot-5B2D91?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/github/stars/Sakshi-Bhosale999/YOUR-REPO-1?style=for-the-badge&labelColor=0B1630&color=FF4B91" />
   <img src="https://img.shields.io/github/last-commit/Sakshi-Bhosale999/YOUR-REPO-1?style=for-the-badge&labelColor=0B1630&color=00D9FF" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Sakshi-Bhosale999/YOUR-REPO-2">
-    <img src="https://img.shields.io/badge/YOUR--REPO--2-Python-FF4B91?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/github/stars/Sakshi-Bhosale999/YOUR-REPO-2?style=for-the-badge&labelColor=0B1630&color=FF4B91" />
-  <img src="https://img.shields.io/github/last-commit/Sakshi-Bhosale999/YOUR-REPO-2?style=for-the-badge&labelColor=0B1630&color=00D9FF" />
-</p>
+
 
 ---
 
